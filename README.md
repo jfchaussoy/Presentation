@@ -1,18 +1,17 @@
 # Présentation
 
 # Jean-François CHAUSSOY  
-**Développeur Web Full Stack | spécialisé JavaScript**  
+**Développeur Web Full Stack / Data Scientist**  
 📍 **62200 Boulogne sur mer**
 
 ---
 
 ## 🗣️  À propos de moi  
-À la suite d’un bouleversement professionnel dû à l’apparition d’un handicap de mobilité, j’ai entamé une reconversion pour le fabuleux métier de développeur web full stack.  
-Passionné par l’innovation et la création, je veux me spécialiser dans le développement d'applications web originales , sécurisées sous le respect des régles d'assurance web.
+A la suite d’un bouleversement professionnel du à l’apparition d’un handicap de mobilité, je me réinvente, m’améliore, me fixe un but en adéquation avec mon parcours et mes passions dans le domaine de l’informatique. Aujourd'ui, je suis développeur web full-stack. Intrigué par l'intelligence artificielle et son fonctionnement, je termine un bootcamp Data Scientist IA.
 
 ## 🎯 Objectifs
 Participer à la création de projet en équipe, apprendre au fil des projets de nouvelles techniques.
-Aprés avoir fait mes classes, je souhaiterais me former à l'IA afin de la comprendre, l'étudier, travailler avec et la domestiquer.
+Aprés avoir fait mes classes, je suis actuellement en formation au métier de la data afin de la comprendre l'IA, l'étudier, travailler avec et la domestiquer.
 
 ---
 
@@ -36,16 +35,17 @@ Aprés avoir fait mes classes, je souhaiterais me former à l'IA afin de la comp
 ---
 
 ## 🎓 Formation  
-- **École O’Clock** – Développeur Web Full Stack spécialisé JavaScript (en cours).
+- **DataBird** - Data Scientist Champion IA (en cours)
+- **École O’Clock** – Développeur Web Full Stack spécialisé JavaScript.
   - Développement front-end / back-end d’une application web/mobile sécurisée, intégration et déploiement continu.  
-- **Diplôme Secrétaire médical :** .
-- **ATEF-AMV BAC +1 / BAC STG :** .
-- **Niveau licence 1 Informatique :** .  
+- **Diplôme Secrétaire médical 
+- **ATEF-AMV BAC +1 / BAC STG 
+- **Niveau licence 1 Informatique   
 
 ---
 
 ## 🔧 Compétences Techniques  
-- **Langages :** JavaScript (Node.js, React.js), HTML/CSS, SQL/NoSQL, Python (en cours), Rust (en cours)  
+- **Langages :** JavaScript (Node.js, React.js, Typescript), HTML/CSS, SQL/NoSQL, Python.
 - **Outils de Développement :** Git/GitHub, Docker, VScode, WordPress Figma, photoshop
 - **Certification :** Opquast (assurance qualité web)  
 - **Langues :** Français (natif), Anglais (B1)
@@ -53,6 +53,9 @@ Aprés avoir fait mes classes, je souhaiterais me former à l'IA afin de la comp
 ---
 
 ## 💼 Projets Réalisés  
+- **Welleat-SalesSync**
+  - Gestion de portefeuille client/devis (création de formule/articles/simulation)/suivi/gestion d'équipe(création/assignation)/communication externe et interne)
+
 - **Site E-commerce**  
   - Maintenance et optimisation des performances (vitesse et référencement), refonte UX/UI.
 
